@@ -13,13 +13,13 @@ Your task is to use the training data to understand what patterns in V1-V7 to in
 
 **Incremental Response Rate (IRR)**
 IRR depicts how many more customers purchased the product with the promotion, as compared to if they didn't receive the promotion. Mathematically, it's the ratio of the number of purchasers in the promotion group to the total number of customers in the purchasers group (treatment) minus the ratio of the number of purchasers in the non-promotional group to the total number of customers in the non-promotional group (control).
-IRR.jpg
 
+![alt text](https://github.com/Tselmeg-C/Udacity_Project_2.5_Portfolio-Exercise-Starbucks/blob/master/IRR.jpg)
  
 **Net Incremental Revenue (NIR)**
 NIR depicts how much is made (or lost) by sending out the promotion. Mathematically, this is 10 times the total number of purchasers that received the promotion minus 0.15 times the number of promotions sent out, minus 10 times the number of purchasers who were not given the promotion.
 
-𝑁𝐼𝑅=(10⋅𝑝𝑢𝑟𝑐ℎ𝑡𝑟𝑒𝑎𝑡−0.15⋅𝑐𝑢𝑠𝑡𝑡𝑟𝑒𝑎𝑡)−10⋅𝑝𝑢𝑟𝑐ℎ𝑐𝑡𝑟𝑙
+![alt text](https://github.com/Tselmeg-C/Udacity_Project_2.5_Portfolio-Exercise-Starbucks/blob/master/NIR.jpg)
  
 For a full description of what Starbucks provides to candidates see the [instructions available here](https://drive.google.com/file/d/18klca9Sef1Rs6q8DW4l7o349r8B70qXM/view).
 
@@ -31,10 +31,8 @@ From past data, we know there are four possible outomes:
 
 Table of actual promotion vs. predicted promotion customers:
 
-Actual
-Predicted	Yes	No
-Yes	I	II
-No	III	IV
+![alt text](https://github.com/Tselmeg-C/Udacity_Project_2.5_Portfolio-Exercise-Starbucks/blob/master/table_accuracy.jpg)
+
 The metrics are only being compared for the individuals we predict should obtain the promotion – that is, quadrants I and II. Since the first set of individuals that receive the promotion (in the training set) receive it randomly, we can expect that quadrants I and II will have approximately equivalent participants.
 
 Comparing quadrant I to II then gives an idea of how well your promotion strategy will work in the future.

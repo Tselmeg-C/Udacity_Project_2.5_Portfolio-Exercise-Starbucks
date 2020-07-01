@@ -37,4 +37,4 @@ The metrics are only being compared for the individuals we predict should obtain
 
 Comparing quadrant I to II then gives an idea of how well my promotion strategy will work in the future.
 
-My IRR and NIR with my developed strategy were 0.0187 and 358.05 respectively, while the original solution (which was provided from the course desiner) was with a IRR of 0.0188 and an NIR of 189.45 on the test set.
+My IRR and NIR with my developed strategy were 0.0187 and 358.05 respectively, while the original solution (which was provided from the course designer) was with a IRR of 0.0188 and an NIR of 189.45 on the test set.

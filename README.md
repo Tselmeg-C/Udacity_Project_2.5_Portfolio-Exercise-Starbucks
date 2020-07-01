@@ -13,6 +13,7 @@ Your task is to use the training data to understand what patterns in V1-V7 to in
 
 **Incremental Response Rate (IRR)**
 IRR depicts how many more customers purchased the product with the promotion, as compared to if they didn't receive the promotion. Mathematically, it's the ratio of the number of purchasers in the promotion group to the total number of customers in the purchasers group (treatment) minus the ratio of the number of purchasers in the non-promotional group to the total number of customers in the non-promotional group (control).
+![IRR](E:\Data Scientist\Udacity_data_scientist_nanodegree\project2.5_Sturbucks_classification\IRR.jpg)
 
 𝐼𝑅𝑅=𝑝𝑢𝑟𝑐ℎ𝑡𝑟𝑒𝑎𝑡𝑐𝑢𝑠𝑡𝑡𝑟𝑒𝑎𝑡−𝑝𝑢𝑟𝑐ℎ𝑐𝑡𝑟𝑙𝑐𝑢𝑠𝑡𝑐𝑡𝑟𝑙
  
